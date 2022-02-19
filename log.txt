@@ -1,6 +1,7 @@
 *******************************************************************************
 **********************I track my daily oonga boonga here **********************
 *******************************************************************************
-****  Date  ****    Day    ****     Path     ****            Lessons           ****
+****  Date  ****    Day    ****     Path     ****            Lessons       ****
 
-17-02-2022       Thursday      Foundations       Introduction Lessons completed
+17-02-2022       Thursday      Foundations       Introduction lessons
+18-02-2022       Friday        Foundations       Installations + Git Basics
