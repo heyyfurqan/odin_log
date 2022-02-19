@@ -1,8 +1,8 @@
 # Odin Log
 
-Nothing fancy, just keeping a track of what I learn while following [The Odin Project](theodinproject.com) track. 
+Nothing fancy, just keeping a track of what I learn while following [The Odin Project](https://www.theodinproject.com/) track. 
 
-## 
+##
 ```
 
 ████████ ██   ██ ███████      ██████  ██████  ██ ███    ██     ██████  ██████   ██████       ██ ███████  ██████ ████████ 
