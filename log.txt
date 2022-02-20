@@ -1,8 +1,9 @@
-*******************************************************************************
-**********************I track my daily oonga boonga here **********************
-*******************************************************************************
-****  Date  ****    Day    ****     Path     ****            Lessons       ****
+*****************************************************************************************
+**********************I track my daily oonga boonga here ********************************
+*****************************************************************************************
+****  Date  ****    Day    ****     Path     ****       Lessons Completed       *********
 
-17-02-2022       Thursday      Foundations       Introduction lessons
-18-02-2022       Friday        Foundations       Installations + Git Basics
+17-02-2022       Thursday      Foundations       Introduction section
+18-02-2022       Friday        Foundations       Installations + Git Basics section
 19-02-2022       Saturday      Foundations       Created this repo for logging
+20-02-2022       Sunday        Foundations       5 lessons in HTML Foundations section
