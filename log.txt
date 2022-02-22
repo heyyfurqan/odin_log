@@ -7,3 +7,4 @@
 18-02-2022       Friday        Foundations       Installations + Git Basics section
 19-02-2022       Saturday      Foundations       Created this repo for logging
 20-02-2022       Sunday        Foundations       5 lessons in HTML Foundations section
+21-02-2022       Monday        Foundations       Completed 1 lesson and 'Recipes' Project                  
