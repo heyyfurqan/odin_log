@@ -9,3 +9,5 @@
 20-02-2022       Sunday        Foundations       5 lessons in HTML Foundations section
 21-02-2022       Monday        Foundations       Completed 1 lesson and 'Recipes' Project
 22-02-2022       Tuesday       Foundations       1 lesson in CSS Foundations + 1 CSS exercise
+23-02-2022       Wednesday     Foundations       I took break for a day, or maybe not
+24-02-2022       Thursday      Foundations       Completed 6 CSS exercises in Foundations
