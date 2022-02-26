@@ -11,4 +11,5 @@
 22-02-2022       Tuesday       Foundations       1 lesson in CSS Foundations + 1 CSS exercise
 23-02-2022       Wednesday     Foundations       I took break for a day, or maybe not
 24-02-2022       Thursday      Foundations       Completed 6 CSS exercises in Foundations
-25-02-2022
+25-02-2022       Friday        Foundations       I didn't study hehe
+26-02-2022       Saturday      Foundations       Added CSS to Odin Recipes + Revised CSS Lesson 1
